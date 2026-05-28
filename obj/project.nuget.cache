@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rP0Jwe3yoko=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lesed\\source\\repos\\CybersecurityChatbotWPF\\CybersecurityChatbotWPF\\CybersecurityChatbotWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lesed\\.nuget\\packages\\system.speech\\10.0.8\\system.speech.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
